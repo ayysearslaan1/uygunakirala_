@@ -1,0 +1,635 @@
+body {
+    margin: 0;
+}
+
+.arkaplan {
+    width: 100%;
+    height: 80px;
+    background-color: #15214a;
+    padding-top: 20px;
+}
+
+.uygunalego {
+    width: 200px;
+    height: 100px;
+    margin-left: 130px;
+}
+
+.group {
+    height: 50;
+}
+
+
+.arama {
+    width: 810px;
+    height: 60px;
+    margin-left: 400px;
+    margin-top: -100px;
+
+}
+
+.ara {
+    width: 800px;
+    height: 50px;
+    border-radius: 10px;
+
+
+}
+
+.aramalogo {
+    width: 100px;
+    height: 100px;
+    margin-left: 415px;
+    margin-top: -45px;
+
+}
+
+.sehir {
+    width: 100px;
+    height: 100px;
+    margin-left: 1241px;
+    margin-top: -112px;
+}
+
+.ist {
+    font-size: 19px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tuş {
+    width: 100px;
+    height: 100px;
+    margin-left: 320px;
+    margin-top: -30px;
+}
+
+.oturumac {
+    width: 200px;
+    height: 100px;
+    margin-left: 360px;
+    margin-top: -118px;
+
+
+}
+
+.oturum {
+    font-size: 21px;
+    color: rgb(242, 238, 238);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.arabanindisinindisi {
+    width: 100px;
+    height: 100px;
+    margin-left: 27px;
+    padding-top: 7px;
+}
+
+.arabanindisi {
+    width: 100px;
+    height: 100px;
+    background-color: #6D26F2;
+    border-radius: 60%;
+    margin-left: -1100px;
+    margin-top: 20px;
+}
+
+.araba {
+    margin-left: 32px;
+    padding-top: 30px;
+
+}
+
+
+
+.arabadisininyazisi {
+
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 29px;
+    margin-top: 33px;
+
+}
+
+.arabayazisi {
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: -40px;
+}
+
+
+
+
+.elektronikdısınındısı {
+    width: 250px;
+    height: 350px;
+}
+
+.elektronikdisi {
+    width: 100px;
+    height: 100px;
+    background-color: #F9CC4B;
+    border-radius: 70%;
+    margin-left: 297px;
+    margin-top: 27px;
+
+}
+
+.elektronik {
+    margin-left: 35px;
+    padding-top: 34px;
+}
+
+.elektronikdisiyazisi {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.elektronikyazisi {
+    margin-left: 300px;
+    margin-top: -248px;
+    font-size: 21px;
+}
+
+
+.emlakdisi {
+    width: 100px;
+    height: 100px;
+    background-color: #41A957;
+    border-radius: 70%;
+    margin-left: 437px;
+    margin-top: -142px;
+
+}
+
+.emlak {
+
+    margin-left: 34px;
+    padding-top: 37px;
+}
+
+.emlakdisiyazisi {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.emlakyazisi {
+    margin-left: 444px;
+    margin-top: -1px;
+    font-size: 21px;
+}
+
+.mobilyadisinindisi {
+    width: 100px;
+    height: 100px;
+
+}
+
+.mobilyadisi {
+    width: 100px;
+    height: 100px;
+    background-color: #00D9B1;
+    border-radius: 50%;
+    margin-left: 568px;
+    margin-top: -147px;
+
+
+}
+
+.mobilya {
+    height: 20px;
+    margin-left: 33px;
+    padding-top: 39px;
+
+}
+
+.mobilyadisiyazisi {
+    margin-left: 580px;
+    margin-top: -20px;
+    font-size: 21px;
+}
+
+.mobilyayazisi {
+    width: 100px;
+    height: 100px;
+}
+
+.fitnesdisinindisi {
+    width: 100px;
+    height: 100px;
+
+}
+
+.fitnesdisi {
+    width: 100px;
+    height: 100px;
+    background-color: #3cd9ff;
+    border-radius: 50%;
+    margin-left: 699px;
+    margin-top: -220px;
+
+
+}
+
+.fitness {
+    height: 27px;
+    margin-left: 37px;
+    padding-top: 40px;
+
+}
+
+.fitnesdisiyazisi {
+    margin-left: 719px;
+    margin-top: -20px;
+    font-size: 21px;
+}
+
+.fitnesyazisi {
+    width: 100px;
+    height: 100px;
+
+}
+
+.bookdisinindisi {
+    width: 100px;
+    height: 100px;
+}
+
+.bookdisi {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(181, 117, 241);
+    border-radius: 50%;
+    margin-left: 835px;
+    margin-top: -220px;
+
+}
+
+.book {
+    height: 27px;
+    margin-left: 37px;
+    padding-top: 40px;
+
+
+
+
+
+}
+
+.bookdisiyazisi {
+    width: 100px;
+    height: 100px;
+
+}
+
+.bookyazisi {
+
+    margin-left: 857px;
+    margin-top: -1px;
+    font-size: 21px;
+}
+
+.aletdisinindisi {
+    width: 100px;
+    height: 100px;
+}
+
+.aletdisi {
+    width: 100px;
+    height: 100px;
+    background-color: #0053f9;
+    border-radius: 50%;
+    margin-left: 970px;
+    margin-top: -200px;
+
+}
+
+.alet {
+    height: 20px;
+    margin-left: 37px;
+    padding-top: 40px;
+
+}
+
+.aletdisiyazisi {
+    margin-left: 979px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.aletyazisi {
+    width: 100px;
+    height: 100px;
+
+}
+
+.shopdisinindisi {
+    width: 100px;
+    height: 100px;
+}
+
+.shopdisi {
+    width: 100px;
+    height: 100px;
+    background-color: #f82535;
+    border-radius: 50%;
+    margin-left: 1120px;
+    margin-top: -220px;
+
+}
+
+.shop {
+    height: 20px;
+    margin-left: 35px;
+    padding-top: 40px;
+}
+
+.shopdisiyazisi {
+    margin-left: 1150px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.shopyazisi {
+    width: 100px;
+    height: 100px;
+}
+.fashiondisinindisi{
+width: 100px;
+height: 100px;
+}
+.fashiondisi{
+    width: 100px;
+    height: 100px;
+    background-color: #beca00;
+    border-radius: 50%;
+    margin-left: 1257px;
+    margin-top: -220px;
+
+}
+.fashion{
+    height: 26px;
+    margin-left: 37px;
+    padding-top: 40px;
+}
+.fashiondisiyazisi{
+    margin-left: 1277px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.fashionyazisi{
+width: 100px;
+height: 100px;
+}
+.spordisinindisi{
+width: 100px;
+height: 100px;
+}
+.spordisi{
+    width: 100px;
+    height: 100px;
+    background-color: #00edff;
+    border-radius: 50%;
+    margin-left: 1400px;
+    margin-top: -220px;
+
+}
+.spordisi:hover{
+    box-shadow: 5px 5px 20px rgb(242, 26, 26);
+}
+.spor{
+    height: 26px;
+    margin-left: 37px;
+    padding-top: 40px;
+}
+.spordisiyazisi{
+    margin-left: 1430px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+.sporyazisi{
+    width: 100px;
+    height: 100px;
+}
+.midicon
+{
+    margin-left: 185px;
+    height: 380px;
+    width: 1400px;
+}
+.midiconbeyaz{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 857px;
+    margin-top: -9px;
+    position: relative;
+    z-index: 1;
+}.ürünleryazidisinindisi
+{
+    height: 60px;
+    width: 1500px;
+    margin-left: 120px;
+    margin-top: 20px;
+    padding-top: 35px;
+}
+.ürünleryazidisi
+{
+    height: 50px;
+    width: 180px;
+    margin-left: 70px;
+}
+.ürünleryazi
+{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 25px;
+    color: black;
+}
+.ürünler2yazidisi
+{
+    height: 50px;
+    width: 150px;
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.ürünler2yazi
+{
+    color: gainsboro;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ürünlerbutonyönlendirme
+{
+    width: 27px;
+    height: 26px;
+    background-color: #15214a;
+    text-align: center;
+    border-radius: 60%;
+    margin-left: 1360px;
+    margin-top: -85px;
+}
+.ürünbutonyönlendirmeyazi
+{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ürün2butonyönlendirme
+{
+    width: 27px;
+    height: 26px;
+    background-color: #15214a;
+    text-align: center;
+    border-radius: 60%;
+    margin-left: 1400px;
+    margin-top: -40px;
+}
+.ürün2butonyönlendirmeyazi
+{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.anaürünlerdiv{
+    width: 100px;
+    height: 100px;
+    margin-left: 55px;
+    margin-top: 30px;
+
+}
+.ürünler1{
+    width: 320px;
+    height: 510px;
+    border-radius: 5%;
+    background-color: #fff;
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 1px;
+    border-style: solid;
+    padding-left: 15px;
+    padding-top: 15px;
+    border-color: gray;
+}
+
+.uygunahazırla1{    
+    width: 75px;
+    height: 20px;
+    margin-block-end: 11px;
+    padding-block: 12px;
+    padding-inline: 16px;
+    color: rgb(21, 33, 74);
+    background-color: rgba(21, 33, 74, 0.1);
+    display: flex;
+    margin-left: -1px;
+    text-align: center;
+    font-size: 15px;
+    font-weight:20px ;
+    border-radius: 20px;
+
+}
+.uygunaarabakirala
+{  
+    border-radius: 10%;
+
+}
+.star{
+    width: 120px;
+    height: 25px;
+    margin-left: 1px;
+    margin-top: -px;
+}
+.ürünler1{
+    border-top: 1px solid rgb(231, 232, 236);
+    display: block;
+    margin-left: 2px;
+    margin-top: 1px;
+    height: 550px;
+}
+.uygunahazırla3
+{
+margin-left: 20px;
+font-size: 17px;
+margin-top: 8px;
+margin-left: 1px;
+}
+.uygunaclas{
+    text-decoration: none;
+}
+.uygunahazırla4{
+    margin-left: 20px;
+    font-size: 17px;
+    margin-left: 3px;
+    margin-top: -8px;
+}
+.uygunahazırla5{
+    margin-left: 1px;
+    font-size: 15px;
+}
+.accicon{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.uygunaraba{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.uygunaArabah2-6{
+    display: flex;
+    margin-left: 70px;
+    font-size: 12px;
+    margin-top: -8px;
+    
+}
+.detaylar{
+    background-color: #15214a;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+}
+.ürünler2{
+    width: 320px;
+    height: 510px;
+    border-radius: 5%;
+    background-color: #fff;
+    margin-left: 420px;
+    margin-top: -95px;
+    border: 1px;
+    border-style: solid;
+    padding-left: 20px;
+    padding-top: 10px;
+    height: 550px;
+    border-color: gray;
+
+}
+.yaziclas
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.uygunayap1{
+    width: 90px;
+    height: 20px;
+    margin-block-end: 11px;
+    padding-block: 12px;
+    padding-inline: 16px;
+    color: rgb(21, 33, 74);
+    background-color: rgba(21, 33, 74, 0.1);
+    display: flex;
+    margin-left: -2px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 20px;
+
+}
+.uygunateknekirala{
+    border-radius: 10%;
+}
+    
+
