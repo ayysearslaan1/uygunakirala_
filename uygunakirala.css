@@ -354,11 +354,13 @@ body {
     width: 100px;
     height: 100px;
 }
-.fashiondisinindisi{
-width: 100px;
-height: 100px;
+
+.fashiondisinindisi {
+    width: 100px;
+    height: 100px;
 }
-.fashiondisi{
+
+.fashiondisi {
     width: 100px;
     height: 100px;
     background-color: #beca00;
@@ -367,25 +369,30 @@ height: 100px;
     margin-top: -220px;
 
 }
-.fashion{
+
+.fashion {
     height: 26px;
     margin-left: 37px;
     padding-top: 40px;
 }
-.fashiondisiyazisi{
+
+.fashiondisiyazisi {
     margin-left: 1277px;
     margin-top: -20px;
     font-size: 20px;
 }
-.fashionyazisi{
-width: 100px;
-height: 100px;
+
+.fashionyazisi {
+    width: 100px;
+    height: 100px;
 }
-.spordisinindisi{
-width: 100px;
-height: 100px;
+
+.spordisinindisi {
+    width: 100px;
+    height: 100px;
 }
-.spordisi{
+
+.spordisi {
     width: 100px;
     height: 100px;
     background-color: #00edff;
@@ -394,30 +401,35 @@ height: 100px;
     margin-top: -220px;
 
 }
-.spordisi:hover{
+
+.spordisi:hover {
     box-shadow: 5px 5px 20px rgb(242, 26, 26);
 }
-.spor{
+
+.spor {
     height: 26px;
     margin-left: 37px;
     padding-top: 40px;
 }
-.spordisiyazisi{
+
+.spordisiyazisi {
     margin-left: 1430px;
     margin-top: -20px;
     font-size: 20px;
 }
-.sporyazisi{
+
+.sporyazisi {
     width: 100px;
     height: 100px;
 }
-.midicon
-{
+
+.midicon {
     margin-left: 185px;
     height: 380px;
     width: 1400px;
 }
-.midiconbeyaz{
+
+.midiconbeyaz {
     width: 11px;
     height: 11px;
     border-radius: 50%;
@@ -426,42 +438,43 @@ height: 100px;
     margin-top: -9px;
     position: relative;
     z-index: 1;
-}.ürünleryazidisinindisi
-{
+}
+
+.ürünleryazidisinindisi {
     height: 60px;
     width: 1500px;
     margin-left: 120px;
     margin-top: 20px;
     padding-top: 35px;
 }
-.ürünleryazidisi
-{
+
+.ürünleryazidisi {
     height: 50px;
     width: 180px;
     margin-left: 70px;
 }
-.ürünleryazi
-{
+
+.ürünleryazi {
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 25px;
     color: black;
 }
-.ürünler2yazidisi
-{
+
+.ürünler2yazidisi {
     height: 50px;
     width: 150px;
     margin-left: 70px;
     margin-top: -40px;
 }
-.ürünler2yazi
-{
+
+.ürünler2yazi {
     color: gainsboro;
     font-size: 12px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.ürünlerbutonyönlendirme
-{
+
+.ürünlerbutonyönlendirme {
     width: 27px;
     height: 26px;
     background-color: #15214a;
@@ -470,13 +483,13 @@ height: 100px;
     margin-left: 1360px;
     margin-top: -85px;
 }
-.ürünbutonyönlendirmeyazi
-{
+
+.ürünbutonyönlendirmeyazi {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.ürün2butonyönlendirme
-{
+
+.ürün2butonyönlendirme {
     width: 27px;
     height: 26px;
     background-color: #15214a;
@@ -485,19 +498,21 @@ height: 100px;
     margin-left: 1400px;
     margin-top: -40px;
 }
-.ürün2butonyönlendirmeyazi
-{
+
+.ürün2butonyönlendirmeyazi {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.anaürünlerdiv{
+
+.anaürünlerdiv {
     width: 100px;
     height: 100px;
     margin-left: 55px;
     margin-top: 30px;
 
 }
-.ürünler1{
+
+.ürünler1 {
     width: 320px;
     height: 510px;
     border-radius: 5%;
@@ -511,7 +526,7 @@ height: 100px;
     border-color: gray;
 }
 
-.uygunahazırla1{    
+.uygunahazırla1 {
     width: 75px;
     height: 20px;
     margin-block-end: 11px;
@@ -523,75 +538,92 @@ height: 100px;
     margin-left: -1px;
     text-align: center;
     font-size: 15px;
-    font-weight:20px ;
+    font-weight: 20px;
     border-radius: 20px;
 
 }
-.uygunaarabakirala
-{  
+
+.uygunaarabakirala {
     border-radius: 10%;
 
 }
-.star{
+
+.star {
     width: 120px;
     height: 25px;
     margin-left: 1px;
     margin-top: -px;
 }
-.ürünler1{
+
+.ürünler1 {
     border-top: 1px solid rgb(231, 232, 236);
     display: block;
     margin-left: 2px;
     margin-top: 1px;
     height: 550px;
 }
-.uygunahazırla3
-{
-margin-left: 20px;
-font-size: 17px;
-margin-top: 8px;
-margin-left: 1px;
+
+.uygunahazırla3 {
+    margin-left: 20px;
+    font-size: 17px;
+    margin-top: 8px;
+    margin-left: 1px;
 }
-.uygunaclas{
+
+.uygunaclas {
     text-decoration: none;
 }
-.uygunahazırla4{
+
+.uygunahazırla4 {
     margin-left: 20px;
     font-size: 17px;
     margin-left: 3px;
     margin-top: -8px;
 }
-.uygunahazırla5{
+
+.uygunahazırla5 {
     margin-left: 1px;
     font-size: 15px;
+    margin-top: -10px;
 }
-.accicon{
+
+.accicon {
     width: 100px;
     height: 100px;
     display: flex;
     margin-left: 50px;
     margin-top: 30px;
 }
-.uygunaraba{
+
+.uygunaraba {
     display: flex;
     margin-left: 70px;
     font-size: 12px;
     margin-top: -30px;
 }
-.uygunaArabah2-6{
-    display: flex;
-    margin-left: 70px;
-    font-size: 12px;
-    margin-top: -8px;
-    
+
+.uygunahazırla6 {
+    color: #cccccc;
+    margin-left: 40px;
+    margin-top: -29px;
 }
-.detaylar{
+
+.uygunahazırla8 {
+    margin-left: 34px;
+    margin-top: -10px;
+}
+
+.detaylar {
     background-color: #15214a;
     width: 300px;
     height: 50px;
-    border-radius: 20px;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-top: 13px;
+
 }
-.ürünler2{
+
+.ürünler2 {
     width: 320px;
     height: 510px;
     border-radius: 5%;
@@ -606,13 +638,14 @@ margin-left: 1px;
     border-color: gray;
 
 }
-.yaziclas
-{
+
+.yaziclas {
     font-size: 20px;
     font-weight: bold;
     color: white;
 }
-.uygunayap1{
+
+.uygunayap1 {
     width: 90px;
     height: 20px;
     margin-block-end: 11px;
@@ -628,8 +661,42 @@ margin-left: 1px;
     border-radius: 20px;
 
 }
-.uygunateknekirala{
+
+.uygunateknekirala {
     border-radius: 10%;
 }
-    
+
+
+.yaziclas {
+    padding-left: 105px;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.detaylar2 {
+    background-color: #15214a;
+    margin-top: 19px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+
+.uygunayap4 {
+    margin-top: -5px;
+}
+
+.uygunayap5 {
+    margin-top: -15px;
+}
+
+.uygunayap6 {
+    color: #cccccc;
+    margin-left: 37px;
+    margin-top: -30px;
+}
+.uygunayap8{
+    margin-left: 33px;
+    margin-top: -10px;
+}
 
