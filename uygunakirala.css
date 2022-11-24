@@ -1122,7 +1122,7 @@ margin-top: 0px;
 .bilgilendirmediv2{
     width: 1600px;
     height: 500px;
-    margin-left: 400px;
+    margin-left: 310px;
     margin-top: -197px;
 }
 .düzenleme{
@@ -1161,7 +1161,7 @@ height: 160px;
 .bilgilendirmediv3{
     width: 1600px;
     height: 500px;
-    margin-left: 740px;
+    margin-left: 590px;
     margin-top: -536px;
 }
 
@@ -1202,7 +1202,7 @@ height: 160px;
 .bilgilendirmediv4{
     width: 1600px;
     height: 500px;
-    margin-left: 1100px;
+    margin-left: 960px;
     margin-top: -490px;
 }
 
@@ -1235,28 +1235,44 @@ height: 160px;
     
 }
 .bilgilendirmedısı{
-    width: 600px;
+    width: 700px;
     height: 1300px;
-    margin-left: 1600px;
+    margin-left: 1379px;
     padding-top: 1px;
     margin-top: -100px;
-    
-
-    
+   
 }
 .bilgilendirmeyazı{
-    width: 200px;
+    width: 300px;
     height: 100px;
     margin-left: 100px;
     margin-top: -560px;
 }
-.bilgilendirmeyazıdiv{
-
+.bilgilendirmeyazidiv{
+height: 100px;
+width: 100px;
+margin-top: -100px;
+margin-left: 150px;
 }
 .bilgi1{
-
-}
-.altbilgilendirmeyzı1{
+margin-left: -8px;
+padding-top: 20px;
 margin-top: 100px;
-margin-left: 100px;
+}
+.altbilgilendirmeyazi1{
+margin-top: -25px;
+margin-left: 16px;
+}
+.altbilgilendirmeyazi2{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.bilgialtcizgi{
+margin-left: 1000x;
+margin-top: 2350px;
+color: #953a3a;
+}
+.sosyalmedyalogodisi{
+    margin-top: 44px;
+    margin-left: 1590px;
 }
