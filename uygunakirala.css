@@ -507,7 +507,7 @@ body {
 .anaürünlerdiv {
     width: 100px;
     height: 260px;
-    margin-left: 55px;
+    margin-left: 160px;
     margin-top: 30px;
 
 }
@@ -975,9 +975,9 @@ margin-top: 0px;
 }
 
 .artciles {
-    width: 1450px;
+    width: 1510px;
     height: 550px;
-    margin-left: -1130px;
+    margin-left: 0px;
     margin-right: 230px;
     border-radius: 2%;
     border: 1px;
@@ -1072,7 +1072,8 @@ margin-top: 0px;
 .bilgilendirmediv {
     width: 1600px;
     height: 500px;
-    margin-left: -1200px;
+    margin-left: 120px;
+    margin-top: 960px;
 }
 
 .alinkayar {
@@ -1113,7 +1114,43 @@ margin-top: 0px;
     margin-left: 16px;
 }
 
-.alinkayar4 {
+
+.ayar1 {
+    width: 350px;
+    height: 160px;
+}
+.bilgilendirmediv2{
+    width: 1600px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: -197px;
+}
+.düzenleme{
+width: 350px;
+height: 160px;
+}
+.uldüzenleme{
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: 38px;
+    padding-left: 20px;
+}
+.ayarlar1{
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ayarlar2{
+    list-style-type: none;
+    margin-top: 7px;
+}
+.linkayar{
+    text-decoration: none;
+    color: black;
+    margin-left: 16px;
+}
+
+.linkayar1{
     text-decoration: none;
     color: gray;
     font-size: 20px;
@@ -1121,17 +1158,105 @@ margin-top: 0px;
     margin-top: 20px;
     margin-left: 20px;
 }
+.bilgilendirmediv3{
+    width: 1600px;
+    height: 500px;
+    margin-left: 740px;
+    margin-top: -536px;
+}
 
-.ulayar3 {
+.bilgi{
+    width: 500px;
+    height: 160px;
+}
+.ulbilgi{
     list-style-type: none;
     margin-top: 30px;
     margin-left: 38px;
     padding-left: 20px;
 }
+.ayarla1{
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+.ayarla2{
+    list-style-type: none;
+    margin-top: 7px;
+}
 
-.ayar1 {
-    width: 350px;
+.linkayarlar{
+    text-decoration: none;
+    color: black;
+    margin-left: 16px;
+}
+.linkayarlar1{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 9px;
+    margin-top: 20px;
+    margin-left: 20px;
+} 
+.bilgilendirmediv4{
+    width: 1600px;
+    height: 500px;
+    margin-left: 1100px;
+    margin-top: -490px;
+}
+
+.ilgilenme{
+
+    width: 500px;
     height: 160px;
-    border: 1px solid #00edff;
+}
+.ulilgilenme{
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: 38px;
+    padding-left: 20px;
+}.ayar2{
+    list-style-type: none;
+    margin-top: 7px;
+}
+.link1{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 9px;
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+.yazı1{
+     font-size: 20px;
+    color: black;
+    margin-left: 16px;   
+    
+}
+.bilgilendirmedısı{
+    width: 600px;
+    height: 1300px;
+    margin-left: 1600px;
+    padding-top: 1px;
+    margin-top: -100px;
+    
+
+    
+}
+.bilgilendirmeyazı{
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: -560px;
+}
+.bilgilendirmeyazıdiv{
+
+}
+.bilgi1{
+
+}
+.altbilgilendirmeyzı1{
+margin-top: 100px;
+margin-left: 100px;
 }
