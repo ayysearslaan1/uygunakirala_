@@ -1276,3 +1276,24 @@ color: #953a3a;
     margin-top: 44px;
     margin-left: 1590px;
 }
+/*Mobil versiyon*/
+@media screen and (max-width: 700px){
+    .arkaplan{
+        padding-left: 11px;
+        padding-top: 20px;
+        height: 10px;
+    }
+}
+
+.uygunalego{
+    width: 25px;
+    height: 25px;
+
+}
+.arama{
+    margin-top: 10px;
+}
+.ara{
+    width: 60%;
+}
+    
