@@ -831,7 +831,7 @@ margin-top: 60px;
     border-radius: 5%;
     background-color: #fff;
     margin-left: 770px;
-    margin-top: -558px;
+    margin-top: -563px;
     border: 1px;
     border-style: solid;
     padding-left: 15px;
@@ -1235,37 +1235,28 @@ height: 160px;
     
 }
 .bilgilendirmedısı{
-    width: 700px;
-    height: 1300px;
-    margin-left: 1379px;
-    padding-top: 1px;
-    margin-top: -100px;
-   
-}
-.bilgilendirmeyazı{
-    width: 300px;
-    height: 100px;
-    margin-left: 100px;
-    margin-top: -560px;
+text-decoration: none;  
+margin-top: -518px;
+margin-left: 1390px;
 }
 .bilgilendirmeyazidiv{
 height: 100px;
-width: 100px;
+width: 200px;
 margin-top: -100px;
-margin-left: 150px;
-}
-.bilgi1{
-margin-left: -8px;
-padding-top: 20px;
-margin-top: 100px;
-}
-.altbilgilendirmeyazi1{
-margin-top: -25px;
-margin-left: 16px;
+font-size: 20px;
+text-decoration: none;
+
 }
 .altbilgilendirmeyazi2{
-    margin-top: -50px;
-    margin-left: 100px;
+margin-top: -20px;
+margin-left: 23px;
+text-decoration: none;
+}
+.altbilgilendirmeyazi3{
+    margin-top: -22px;
+    margin-left: 25px;
+    color: red;
+    
 }
 .bilgialtcizgi{
 margin-left: 1000x;
@@ -1276,24 +1267,3 @@ color: #953a3a;
     margin-top: 44px;
     margin-left: 1590px;
 }
-/*Mobil versiyon*/
-@media screen and (max-width: 700px){
-    .arkaplan{
-        padding-left: 11px;
-        padding-top: 20px;
-        height: 10px;
-    }
-}
-
-.uygunalego{
-    width: 25px;
-    height: 25px;
-
-}
-.arama{
-    margin-top: 10px;
-}
-.ara{
-    width: 60%;
-}
-    
